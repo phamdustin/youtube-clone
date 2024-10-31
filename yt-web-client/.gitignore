@@ -37,4 +37,4 @@ next-env.d.ts
 
 
 #API stuff 
-/app/firebase
+/app/firebase/firebase.ts
